@@ -7,7 +7,7 @@ export default function PageHeader(props) {
     return (
         <div>
             <h1 className={styles.header}>{title || 'Team Search'}</h1>
-            <h2 className={styles.subtitle}>Subtitle</h2>
+            <h2 className={styles.subtitle}>By Diego Javier Cevallos Erazo</h2>
         </div>
     );
 }

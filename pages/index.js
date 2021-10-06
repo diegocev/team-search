@@ -53,7 +53,7 @@ export default function Home() {
                     </button>
 
                     <button className="button is-small is-danger is-rounded">
-                        Mi Boton.
+                        Mi Boton
                     </button>
               </div>
           </div>
@@ -69,6 +69,7 @@ export default function Home() {
 
 
       <footer className={styles.header}>
+        <br></br>
         <PageFooter />
       </footer>
     </div>
