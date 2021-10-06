@@ -1,0 +1,12 @@
+.header{
+    font-size: 4em;
+    color: blue;
+    border-bottom: 2px solid blue;
+    margin-bottom: 10px;
+}
+
+.subtitle{
+    font-size: 0.5em;
+    color: green;
+    margin-bottom: 10px;
+}
