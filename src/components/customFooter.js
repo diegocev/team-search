@@ -5,7 +5,7 @@ export default function PageFooter(props) {
 
     return (
         <div className={styles.header}>
-            Pie de Pagina
+            Pie de Página
         </div>
     );
 }
