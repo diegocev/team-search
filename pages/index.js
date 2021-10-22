@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import axios from 'axios';
-
+import Image from 'next/image'
 import Team from '../src/components/team';
 import PageHeader from '../src/components/pageHeader';
 import PageFooter from '../src/components/customFooter';
